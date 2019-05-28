@@ -14,8 +14,10 @@ def main():
     df = excel_file.parse('Table 2', skiprows=0)                            # copy a sheet and paste into another sheet and skiprows 8
     # sht_run.range('A1').options(index=False).value = df
     # print(df.columns[0])
-    print(df.loc[[df.columns[0] == 'MENU ITEM']])
-    # print(df)
+    # print(df.loc[[df.columns[0] == 'MENU ITEM']])
+    df.columns = ['MENU ITEM', 'Celery', 'Cereals with Gluten', 'Crustaceans', 'Egg', 'Fish', 'Lupin', 'Milk', 'Molluscs', 
+                'Mustard', 'Nuts', 'Peanuts', 'Sesame', 'Soybeans', 'Sulphur Dioxide/ Sulphites', 'Garlic', 'Onions', 'Vegans', 'Vegetarians', '-']
+    print(df)
 
 if __name__ == '__main__':
     main()

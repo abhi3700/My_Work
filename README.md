@@ -13,6 +13,8 @@ All my projects, blogs, talks is maintained here.
 1. [work-9](https://github.com/abhi3700/work-9)
 1. [work-10](https://github.com/abhi3700/work-10)
 1. [work-11](https://github.com/abhi3700/work-11)
+1. [ ] Plotly Monitor using `py-qt`
+1. [ ] Leave Management System using `py-qt`
 
 ## Blogs
 1. [Setting up the EOS Blockchain](https://medium.com/coinmonks/setting-up-the-eos-blockchain-5cd98f99eb84)
@@ -24,8 +26,9 @@ All my projects, blogs, talks is maintained here.
 1. [CabEOS: A Decentralized Ride hailing service on EOS Blockchain](https://medium.com/@abhi3700/cabeos-f9ead531332b)
 1. [EOSIO Boilerplate](https://medium.com/@abhi3700/eosio-boilerplate-ebbccf843d29)
 1. [Understanding Inflation in Cryptoeconomics](https://medium.com/coinmonks/understanding-inflation-in-cryptoeconomics-163162f4107e)
-1. Data Analysis & Visualization (DAV) Series
-1. Understanding AI and it's Impact
+1. [ ] Data Analysis & Visualization (DAV) Series
+    - Case-1: Human Disease
+1. [ ] Understanding AI and it's Impact
 
 ## Talks
 

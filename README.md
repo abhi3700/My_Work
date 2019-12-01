@@ -4,7 +4,7 @@ All my projects, blogs, talks is maintained here.
 ## Projects
 1. [work-1](https://github.com/abhi3700/work-1)
 1. [work-2](https://github.com/abhi3700/work-2)
-1. work-3
+1. [work-3](https://github.com/abhi3700/work-3)
 1. [work-4](https://github.com/abhi3700/work-4)
 1. [work-5](https://github.com/abhi3700/work-5)
 1. [work-6](https://github.com/abhi3700/work-6)

@@ -101,11 +101,18 @@ def draw_plotly_repl1a_er_nit_plot(x, y1, y2, y3, y4, y5, remarks):
 # ############################################################################################################################
 def main():
     excel_file = pd.ExcelFile(excel_file_directory)
-    df_repl1a_er_nit = excel_file.parse(sht_name_er_nit, skiprows=skiprows_nit)                            # copy a sheet and paste into another sheet and skiprows 9
+
+    # copy a sheet and paste into another sheet and skiprows 10
+    df_repl1a_er_nit = excel_file.parse(sht_name_er_nit, skiprows=skiprows_nit)
     
-    df_repl1a_er_nit = df_repl1a_er_nit[sht_er_nit_columns]             # The final Dataframe with 7 columns for plot: x-1, y-6
-    df_repl1a_er_nit['Remarks'].fillna('..', inplace=True)        # replacing the empty cells with 'NIL'
-    df_repl1a_er_nit.dropna(inplace=True)                                              # dropping rows where at least one element is misnitg
+    # The final Dataframe with 7 columns for plot: x-1, y-6
+    df_repl1a_er_nit = df_repl1a_er_nit[sht_er_nit_columns]
+    
+    # replacing the empty cells with 'NIL'
+    df_repl1a_er_nit['Remarks'].fillna('.', inplace=True)
+    
+    # dropping rows where at least one element is missing
+    df_repl1a_er_nit.dropna(inplace=True)
 
     #----------------------------------------------------------------------------------------------------------------------------------------------------------------    
     # Assigning variable to each param for Nit ER & Unif PLot

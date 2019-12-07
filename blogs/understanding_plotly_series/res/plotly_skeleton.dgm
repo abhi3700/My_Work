@@ -1,0 +1,31 @@
+﻿<XtraSerializer version="18.2.6.0">
+  <Items>
+    <Item1 ItemKind="DiagramRoot" PageSize="956,716" ShowGrid="false" SelectedStencils="BasicShapes, BasicFlowchartShapes">
+      <Children>
+        <Item1 Position="500,80" Size="100,75" FontSize="18" Shape="BasicShapes.Rectangle" Content="Plotly" ItemKind="DiagramShape" />
+        <Item2 Position="70,550" Size="100,75" ThemeStyleId="ShapeId.Subtle2" Shape="BasicShapes.Rectangle" Content="trace_1" ItemKind="DiagramShape" />
+        <Item3 Position="390,290" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="fig()" ItemKind="DiagramShape" />
+        <Item4 Position="590,430" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="layout" ItemKind="DiagramShape" />
+        <Item5 Position="500,180" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="py.offline.plot()" ItemKind="DiagramShape" />
+        <Item6 Position="270,430" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="data = []" ItemKind="DiagramShape" />
+        <Item7 Position="200,550" Size="100,75" ThemeStyleId="ShapeId.Subtle2" Shape="BasicShapes.Rectangle" Content="trace_2" ItemKind="DiagramShape" />
+        <Item8 Position="340,550" Size="100,75" ThemeStyleId="ShapeId.Subtle2" Shape="BasicShapes.Rectangle" Content="...." ItemKind="DiagramShape" />
+        <Item9 ThemeStyleId="ConnectorId.Subtle2" BeginItemPointIndex="2" EndItemPointIndex="0" Points="(Empty)" ItemKind="DiagramConnector" BeginItem="0" EndItem="4" BeginPoint="500,205" EndPoint="500,230" />
+        <Item10 ThemeStyleId="ConnectorId.Subtle2" BeginItemPointIndex="2" EndItemPointIndex="0" Points="550,273 440,273" ItemKind="DiagramConnector" BeginItem="4" EndItem="2" BeginPoint="500,305" EndPoint="500,340" />
+        <Item11 BeginItemPointIndex="2" EndItemPointIndex="0" Points="440,413 320,413" ItemKind="DiagramConnector" BeginItem="2" EndItem="5" BeginPoint="500,415" EndPoint="400,480" />
+        <Item12 BeginItemPointIndex="2" EndItemPointIndex="0" Points="440,413 640,413" ItemKind="DiagramConnector" BeginItem="2" EndItem="3" BeginPoint="500,415" EndPoint="650,480" />
+        <Item13 BeginItemPointIndex="2" EndItemPointIndex="0" Points="320,533 120,533" ItemKind="DiagramConnector" BeginItem="5" EndItem="1" BeginPoint="400,555" EndPoint="180,600" />
+        <Item14 BeginItemPointIndex="2" EndItemPointIndex="0" Points="320,533 250,533" ItemKind="DiagramConnector" BeginItem="5" EndItem="6" BeginPoint="400,555" EndPoint="310,600" />
+        <Item15 BeginItemPointIndex="2" EndItemPointIndex="0" Points="320,533 390,533" ItemKind="DiagramConnector" BeginItem="5" EndItem="7" BeginPoint="400,555" EndPoint="450,600" />
+        <Item16 Position="600,290" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="filename" ItemKind="DiagramShape" />
+        <Item17 Position="510,550" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="title" ItemKind="DiagramShape" />
+        <Item18 Position="640,550" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="x-axis" ItemKind="DiagramShape" />
+        <Item19 Position="770,550" Size="100,75" ThemeStyleId="ShapeId.Subtle1" Shape="BasicShapes.Rectangle" Content="y-axis" ItemKind="DiagramShape" />
+        <Item20 BeginItemPointIndex="2" EndItemPointIndex="0" Points="640,533 560,533" ItemKind="DiagramConnector" BeginItem="3" EndItem="16" BeginPoint="820,505" EndPoint="740,550" />
+        <Item21 BeginItemPointIndex="2" EndItemPointIndex="0" Points="640,533 690,533" ItemKind="DiagramConnector" BeginItem="3" EndItem="17" BeginPoint="820,505" EndPoint="910,550" />
+        <Item22 BeginItemPointIndex="2" EndItemPointIndex="0" Points="640,533 820,533" ItemKind="DiagramConnector" BeginItem="3" EndItem="18" BeginPoint="820,505" EndPoint="1050,550" />
+        <Item23 BeginItemPointIndex="2" EndItemPointIndex="0" Points="550,273 650,273" ItemKind="DiagramConnector" BeginItem="4" EndItem="15" BeginPoint="440,255" EndPoint="650,290" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>

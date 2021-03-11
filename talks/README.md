@@ -1,7 +1,10 @@
 # Talks
+1. [ ] __Learn EOS EOSIO Blockchain__ | Write Smart Contract for DApps
+
 1. __"Fundamentals of Artificial Intelligence (AI)"__
-	- Terms: AI, ML, DL
-		+ Draw the set diagram 
+- Terms: AI, ML, DL
+	+ Draw the set diagram 
+
 ```md
 AI
 	ML

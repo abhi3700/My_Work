@@ -1,0 +1,2 @@
+- Why C++?
+- Industry demands
